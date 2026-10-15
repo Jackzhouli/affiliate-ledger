@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#eef3f6"/>
+  <rect x="80" y="120" width="1040" height="390" rx="28" fill="#ffffff" stroke="#1f4d631f"/>
+  <circle cx="180" cy="250" r="42" fill="#1f4d63"/>
+  <text x="180" y="264" text-anchor="middle" font-family="Avenir Next, Helvetica Neue, Segoe UI, sans-serif" font-size="36" font-weight="800" fill="#ffffff">A</text>
+  <text x="250" y="265" font-family="Avenir Next, Helvetica Neue, Segoe UI, sans-serif" font-size="48" font-weight="800" fill="#15232c">Affiliate Ledger</text>
+  <text x="250" y="330" font-family="Avenir Next, Helvetica Neue, Segoe UI, sans-serif" font-size="28" fill="#5a6b75">Keyword Research &amp; Campaign Organization</text>
+</svg>
