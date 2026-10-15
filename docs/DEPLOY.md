@@ -9,8 +9,10 @@
 | 参考 | https://buxiban.org/（结构/菜单/排版复刻；配色改为蓝灰青绿） |
 | 本地路径 | `website/affiliate-ledger/` |
 | 正式域名 | `https://tracker.opportunitiessite.com` |
-| 仓库 | `Jackzhouli/affiliate-ledger`（待创建/推送） |
+| 仓库 | https://github.com/Jackzhouli/affiliate-ledger |
 | 托管 | GitHub + Vercel Hobby |
+| Vercel 预览 | https://affiliate-ledger-delta.vercel.app |
+| Vercel CNAME 目标 | `7707e645b613a886.vercel-dns-017.com` |
 
 ## 页面路由
 
