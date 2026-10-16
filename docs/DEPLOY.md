@@ -13,6 +13,7 @@
 | 托管 | GitHub + Vercel Hobby |
 | Vercel 预览 | https://affiliate-ledger-delta.vercel.app |
 | Vercel CNAME 目标 | `7707e645b613a886.vercel-dns-017.com` |
+| 上线状态 | 已通：`https://tracker.opportunitiessite.com`（HTTP 200） |
 
 ## 页面路由
 
